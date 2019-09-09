@@ -1,0 +1,84 @@
+WisMencoder 2.1.9.8 (Build 20090422.18.00)
+=====================================================
+[Thread #1] STARTING:
+T:2013/10/22 14:56:52 [Thread #1] -> C:\Users\Administrator\Desktop\Vampire_clip[WisMencoder Encoded].avi
+=====================================================
+
+
+T:2013/10/22 14:57:05 [Thread #1] -> MEncoder Sherpya-SVN-r27081-4.2.3 (C) 2000-2008 MPlayer Team
+CPU: Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz (Family: 6, Model: 58, Stepping: 9)
+CPUflags: Type: 6 MMX: 1 MMX2: 1 3DNow: 0 3DNow2: 0 SSE: 1 SSE2: 1
+Compiled with runtime CPU detection.
+success: format: 0  data: 0x0 - 0x6cbc6a
+REAL file format detected.
+Stream description: Audio Stream
+Stream mimetype: audio/x-pn-realaudio
+[real] Audio stream found, -aid 0
+Stream description: Video Stream
+Stream mimetype: video/x-pn-realvideo
+[real] Video stream found, -vid 1
+VIDEO:  [RV40]  716x400  24bpp  23.000 fps    0.0 kbps ( 0.0 kbyte/s)
+[V] filefmt:11  fourcc:0x30345652  size:716x400  fps:23.000  ftime:=0.0435
+==========================================================================
+Opening audio decoder: [ffmpeg] FFmpeg/libavcodec audio decoders
+AUDIO: 44100 Hz, 2 ch, s16le, 64.1 kbit/4.54% (ratio: 8010->176400)
+Selected audio codec: [ffcook] afm: ffmpeg (FFmpeg COOK audio decoder)
+==========================================================================
+Opening video filter: [expand osd=1]
+Expand: -1 x -1, -1 ; -1, osd: 1, aspect: 0.000000, round: 1
+Opening video filter: [harddup]
+==========================================================================
+Opening video decoder: [realvid] RealVideo decoder
+Error loading dll
+ERROR: Could not open required DirectShow codec drvc.so.
+Read the RealVideo section of the DOCS!
+VDecoder init failed :(
+Opening video decoder: [realvid] RealVideo decoder
+Error loading dll
+ERROR: Could not open required DirectShow codec drvc.dll.
+Read the RealVideo section of the DOCS!
+VDecoder init failed :(
+Opening video decoder: [realvid] RealVideo decoder
+Error loading dll
+ERROR: Could not open required DirectShow codec drv4.so.6.0.
+Read the RealVideo section of the DOCS!
+VDecoder init failed :(
+Opening video decoder: [realvid] RealVideo decoder
+Selected video codec: [rv40win] vfm: realvid (Win32 RealPlayer 9 RV40 decoder)
+==========================================================================
+Forcing output FourCC to 30355844 [DX50].
+MP3 audio selected.
+VDec: vo config request - 716 x 400 (preferred colorspace: Planar I420)
+VDec: using Planar I420 as output csp (no 0)
+Movie-Aspect is 1.79:1 - prescaling to correct movie aspect.
+videocodec: libavcodec (716x400 fourcc=30355844 [DX50])
+Writing header...
+ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+Writing header...
+ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+
+Skipping frame!
+
+Skipping frame!
+
+Skipping frame!
+
+1 duplicate frame(s)!
+
+Skipping frame!
+
+Skipping frame!
+
+Skipping frame!
+
+Skipping frame!
+
+
+
+WisMencoder 2.1.9.8 (Build 20090422.18.00)
+=====================================================
+[Thread #1] STARTING:
+T:2013/10/25 20:02:40 [Thread #1] -> C:\Users\Administrator\Desktop\500M[WisMencoder Encoded].avi
+=====================================================
+
+

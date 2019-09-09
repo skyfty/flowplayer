@@ -1,0 +1,28 @@
+WisMencoder Config File 1.80
+C:\Users\Administrator\Desktop
+0
+[WisMencoder Encoded]
+0
+0
+0
+0
+0
+_New
+-1
+0
+-1
+0
+0
+5
+4
+7
+0
+0
+0
+1200
+
+0
+0
+0
+0
+0
